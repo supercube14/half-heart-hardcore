@@ -8,3 +8,5 @@ Totems of undying work in a cursed way, thanks to the way I made this datapack. 
 
 ## WARNING
 - Do not use the mod version in existing modpacks, it will apply to any world that is opened, and can technically be fixed, but only if you enable cheats.
+
+[Half Heart Hardcore](https://github.com/supercube14/half-heart-hardcore) © 2024 is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
